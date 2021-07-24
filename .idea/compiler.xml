@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="guava_project" />
+        <module name="itext-project" />
+        <module name="zookeeper-project" />
+        <module name="guice-project" />
+        <module name="springboot-project" />
+        <module name="elasticsearch-project" />
+        <module name="drift-client-project" />
+        <module name="drift-project" />
+        <module name="swift-project" />
+        <module name="canal-project" />
+        <module name="httpclient-project" />
+        <module name="excel-projects" />
+        <module name="common" />
+        <module name="thrift-project" />
+        <module name="drift-server-project" />
+        <module name="dozer-projects" />
+        <module name="freemarker-project" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dozer-project" target="1.5" />
+      <module name="excel-project" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="canal-project" options="-parameters" />
+      <module name="dozer-projects" options="-parameters" />
+      <module name="elasticsearch-project" options="-parameters" />
+      <module name="excel-project" options="-parameters" />
+      <module name="excel-projects" options="-parameters" />
+      <module name="freemarker-project" options="-parameters" />
+      <module name="itext-project" options="-parameters" />
+      <module name="springboot-project" options="-parameters" />
+    </option>
+  </component>
+</project>

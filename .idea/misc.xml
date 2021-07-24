@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-project/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-project/pom.xml" />
+        <option value="$PROJECT_DIR$/canal-project/pom.xml" />
+        <option value="$PROJECT_DIR$/excel-project/pom.xml" />
+        <option value="$PROJECT_DIR$/excel-projects/pom.xml" />
+        <option value="$PROJECT_DIR$/freemarker-project/pom.xml" />
+        <option value="$PROJECT_DIR$/dozer-projects/pom.xml" />
+        <option value="$PROJECT_DIR$/itext-project/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dozer-project/pom.xml" />
+        <option value="$PROJECT_DIR$/excel-project/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
